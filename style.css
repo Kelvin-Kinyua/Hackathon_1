@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: whitesmoke;
+}
+header{
+    background-color: rgb(6, 86, 121);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+section{
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-start-end-radius: 8px;
+}
+ul{
+    list-style-type: square;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background: none;
+    color: black;
+}
